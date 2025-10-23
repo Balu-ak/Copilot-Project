@@ -1,0 +1,13 @@
+{
+  "name": "copilot-project",
+  "version": "1.0.0",
+  "description": "Sample application for Copilot Project",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["copilot", "sample", "nodejs"],
+  "author": "",
+  "license": "ISC"
+}
